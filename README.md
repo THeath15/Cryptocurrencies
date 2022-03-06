@@ -20,8 +20,8 @@ Data was first preprocessed by being cleaned, encoded, and scaled to more approp
 
 We then used Principle Component Analysis (PCA) to reduce the dimensions of the dataframe, for further analysis.
 ![Principal component analysis](https://user-images.githubusercontent.com/92903447/156914387-9187bd75-1eeb-4a85-862f-3719ef4abb49.png)
-![K means Clustering Algorithm _Crypto PCA Elbow Curve](https://user-images.githubusercontent.com/92903447/156914369-d232c35b-3001-49a8-9823-0db3a63e61d9.png)
 
+![K means Clustering Algorithm _Crypto PCA Elbow Curve](https://user-images.githubusercontent.com/92903447/156914369-d232c35b-3001-49a8-9823-0db3a63e61d9.png)
 
 Total number of tradable currencies
 ![number of tradable currencies](https://user-images.githubusercontent.com/92903447/156914380-0403faf1-5ecc-431a-90a3-c886dc1151dd.png)
