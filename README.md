@@ -24,6 +24,7 @@ We then used Principle Component Analysis (PCA) to reduce the dimensions of the 
 ![K means Clustering Algorithm _Crypto PCA Elbow Curve](https://user-images.githubusercontent.com/92903447/156914369-d232c35b-3001-49a8-9823-0db3a63e61d9.png)
 
 Total number of tradable currencies
+
 ![number of tradable currencies](https://user-images.githubusercontent.com/92903447/156914380-0403faf1-5ecc-431a-90a3-c886dc1151dd.png)
 
 Visualizing Cryptocurrency Results
